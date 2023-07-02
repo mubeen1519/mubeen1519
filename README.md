@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on android development<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for passionate open source contributor<br>🌱 I’m currently learning jetpack compose<br>
+🔭 I’m currently working on android development<br>👯 Passionate about working with people<br>🤝 I’m looking for a team to build exceptional products<br>
 
 
 ## 🌐 Socials:
